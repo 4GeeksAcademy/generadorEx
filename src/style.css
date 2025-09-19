@@ -1,5 +1,13 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
-
 body{
-    background: white;
+    background-color: rgb(214, 201, 184);
+}
+
+h1{
+    text-align: center;
+}
+
+#generadorRandom {
+    font-size: 24px;
+    color:brown;
+    text-align: center;
 }
